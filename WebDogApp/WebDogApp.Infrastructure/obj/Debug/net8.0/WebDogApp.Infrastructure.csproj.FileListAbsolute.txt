@@ -1,0 +1,14 @@
+C:\Users\Student.DESKTOP-FCRGMHM\Documents\18. Zahari\WebDogApp\WebDogApp.Infrastructure\bin\Debug\net8.0\WebDogApp.Infrastructure.deps.json
+C:\Users\Student.DESKTOP-FCRGMHM\Documents\18. Zahari\WebDogApp\WebDogApp.Infrastructure\bin\Debug\net8.0\WebDogApp.Infrastructure.runtimeconfig.json
+C:\Users\Student.DESKTOP-FCRGMHM\Documents\18. Zahari\WebDogApp\WebDogApp.Infrastructure\bin\Debug\net8.0\WebDogApp.Infrastructure.dll
+C:\Users\Student.DESKTOP-FCRGMHM\Documents\18. Zahari\WebDogApp\WebDogApp.Infrastructure\bin\Debug\net8.0\WebDogApp.Infrastructure.pdb
+C:\Users\Student.DESKTOP-FCRGMHM\Documents\18. Zahari\WebDogApp\WebDogApp.Infrastructure\obj\Debug\net8.0\WebDogApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Student.DESKTOP-FCRGMHM\Documents\18. Zahari\WebDogApp\WebDogApp.Infrastructure\obj\Debug\net8.0\WebDogApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student.DESKTOP-FCRGMHM\Documents\18. Zahari\WebDogApp\WebDogApp.Infrastructure\obj\Debug\net8.0\WebDogApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Student.DESKTOP-FCRGMHM\Documents\18. Zahari\WebDogApp\WebDogApp.Infrastructure\obj\Debug\net8.0\WebDogApp.Infrastructure.AssemblyInfo.cs
+C:\Users\Student.DESKTOP-FCRGMHM\Documents\18. Zahari\WebDogApp\WebDogApp.Infrastructure\obj\Debug\net8.0\WebDogApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Student.DESKTOP-FCRGMHM\Documents\18. Zahari\WebDogApp\WebDogApp.Infrastructure\obj\Debug\net8.0\WebDogApp.Infrastructure.dll
+C:\Users\Student.DESKTOP-FCRGMHM\Documents\18. Zahari\WebDogApp\WebDogApp.Infrastructure\obj\Debug\net8.0\refint\WebDogApp.Infrastructure.dll
+C:\Users\Student.DESKTOP-FCRGMHM\Documents\18. Zahari\WebDogApp\WebDogApp.Infrastructure\obj\Debug\net8.0\WebDogApp.Infrastructure.pdb
+C:\Users\Student.DESKTOP-FCRGMHM\Documents\18. Zahari\WebDogApp\WebDogApp.Infrastructure\obj\Debug\net8.0\WebDogApp.Infrastructure.genruntimeconfig.cache
+C:\Users\Student.DESKTOP-FCRGMHM\Documents\18. Zahari\WebDogApp\WebDogApp.Infrastructure\obj\Debug\net8.0\ref\WebDogApp.Infrastructure.dll

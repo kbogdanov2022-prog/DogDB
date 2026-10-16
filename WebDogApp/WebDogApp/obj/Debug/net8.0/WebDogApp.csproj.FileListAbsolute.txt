@@ -1,0 +1,10 @@
+C:\Users\Student.DESKTOP-FCRGMHM\Documents\18. Zahari\WebDogApp\WebDogApp\obj\Debug\net8.0\WebDogApp.csproj.AssemblyReference.cache
+C:\Users\Student.DESKTOP-FCRGMHM\Documents\18. Zahari\WebDogApp\WebDogApp\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Student.DESKTOP-FCRGMHM\Documents\18. Zahari\WebDogApp\WebDogApp\obj\Debug\net8.0\WebDogApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student.DESKTOP-FCRGMHM\Documents\18. Zahari\WebDogApp\WebDogApp\obj\Debug\net8.0\WebDogApp.AssemblyInfoInputs.cache
+C:\Users\Student.DESKTOP-FCRGMHM\Documents\18. Zahari\WebDogApp\WebDogApp\obj\Debug\net8.0\WebDogApp.AssemblyInfo.cs
+C:\Users\Student.DESKTOP-FCRGMHM\Documents\18. Zahari\WebDogApp\WebDogApp\obj\Debug\net8.0\WebDogApp.csproj.CoreCompileInputs.cache
+C:\Users\Student.DESKTOP-FCRGMHM\Documents\18. Zahari\WebDogApp\WebDogApp\obj\Debug\net8.0\WebDogApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Student.DESKTOP-FCRGMHM\Documents\18. Zahari\WebDogApp\WebDogApp\obj\Debug\net8.0\WebDogApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Student.DESKTOP-FCRGMHM\Documents\18. Zahari\WebDogApp\WebDogApp\obj\Debug\net8.0\WebDogApp.RazorAssemblyInfo.cache
+C:\Users\Student.DESKTOP-FCRGMHM\Documents\18. Zahari\WebDogApp\WebDogApp\obj\Debug\net8.0\WebDogApp.RazorAssemblyInfo.cs

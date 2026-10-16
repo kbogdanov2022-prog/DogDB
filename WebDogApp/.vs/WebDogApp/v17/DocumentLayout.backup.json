@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Student.DESKTOP-FCRGMHM\\Documents\\18. Zahari\\WebDogApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE0F635-F34A-41B5-9B3F-F929ADB3DF49}|WebDogApp.Infrastructure\\WebDogApp.Infrastructure.csproj|c:\\users\\student.desktop-fcrgmhm\\documents\\18. zahari\\webdogapp\\webdogapp.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CE0F635-F34A-41B5-9B3F-F929ADB3DF49}|WebDogApp.Infrastructure\\WebDogApp.Infrastructure.csproj|solutionrelative:webdogapp.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE0F635-F34A-41B5-9B3F-F929ADB3DF49}|WebDogApp.Infrastructure\\WebDogApp.Infrastructure.csproj|c:\\users\\student.desktop-fcrgmhm\\documents\\18. zahari\\webdogapp\\webdogapp.infrastructure\\data\\domain\\breeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CE0F635-F34A-41B5-9B3F-F929ADB3DF49}|WebDogApp.Infrastructure\\WebDogApp.Infrastructure.csproj|solutionrelative:webdogapp.infrastructure\\data\\domain\\breeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE0F635-F34A-41B5-9B3F-F929ADB3DF49}|WebDogApp.Infrastructure\\WebDogApp.Infrastructure.csproj|c:\\users\\student.desktop-fcrgmhm\\documents\\18. zahari\\webdogapp\\webdogapp.infrastructure\\data\\domain\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CE0F635-F34A-41B5-9B3F-F929ADB3DF49}|WebDogApp.Infrastructure\\WebDogApp.Infrastructure.csproj|solutionrelative:webdogapp.infrastructure\\data\\domain\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02BBFD61-AC4C-47FD-8DDA-003C81C06188}|WebDogApp\\WebDogApp.csproj|c:\\users\\student.desktop-fcrgmhm\\documents\\18. zahari\\webdogapp\\webdogapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02BBFD61-AC4C-47FD-8DDA-003C81C06188}|WebDogApp\\WebDogApp.csproj|solutionrelative:webdogapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE0F635-F34A-41B5-9B3F-F929ADB3DF49}|WebDogApp.Infrastructure\\WebDogApp.Infrastructure.csproj|c:\\users\\student.desktop-fcrgmhm\\documents\\18. zahari\\webdogapp\\webdogapp.infrastructure\\webdogapp.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4CE0F635-F34A-41B5-9B3F-F929ADB3DF49}|WebDogApp.Infrastructure\\WebDogApp.Infrastructure.csproj|solutionrelative:webdogapp.infrastructure\\webdogapp.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02BBFD61-AC4C-47FD-8DDA-003C81C06188}|WebDogApp\\WebDogApp.csproj|c:\\users\\student.desktop-fcrgmhm\\documents\\18. zahari\\webdogapp\\webdogapp\\webdogapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{02BBFD61-AC4C-47FD-8DDA-003C81C06188}|WebDogApp\\WebDogApp.csproj|solutionrelative:webdogapp\\webdogapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8944E0-7B7B-4F5A-8306-3414557D1246}|WebDogApp.Core\\WebDogApp.Core.csproj|c:\\users\\student.desktop-fcrgmhm\\documents\\18. zahari\\webdogapp\\webdogapp.core\\webdogapp.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DD8944E0-7B7B-4F5A-8306-3414557D1246}|WebDogApp.Core\\WebDogApp.Core.csproj|solutionrelative:webdogapp.core\\webdogapp.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE0F635-F34A-41B5-9B3F-F929ADB3DF49}|WebDogApp.Infrastructure\\WebDogApp.Infrastructure.csproj|c:\\users\\student.desktop-fcrgmhm\\documents\\18. zahari\\webdogapp\\webdogapp.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CE0F635-F34A-41B5-9B3F-F929ADB3DF49}|WebDogApp.Infrastructure\\WebDogApp.Infrastructure.csproj|solutionrelative:webdogapp.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8944E0-7B7B-4F5A-8306-3414557D1246}|WebDogApp.Core\\WebDogApp.Core.csproj|c:\\users\\student.desktop-fcrgmhm\\documents\\18. zahari\\webdogapp\\webdogapp.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD8944E0-7B7B-4F5A-8306-3414557D1246}|WebDogApp.Core\\WebDogApp.Core.csproj|solutionrelative:webdogapp.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02BBFD61-AC4C-47FD-8DDA-003C81C06188}|WebDogApp\\WebDogApp.csproj|c:\\users\\student.desktop-fcrgmhm\\documents\\18. zahari\\webdogapp\\webdogapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{02BBFD61-AC4C-47FD-8DDA-003C81C06188}|WebDogApp\\WebDogApp.csproj|solutionrelative:webdogapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\Student.DESKTOP-FCRGMHM\\Documents\\18. Zahari\\WebDogApp\\WebDogApp.Infrastructure\\Data\\Domain\\Dog.cs",
+              "RelativeDocumentMoniker": "WebDogApp.Infrastructure\\Data\\Domain\\Dog.cs",
+              "ToolTip": "C:\\Users\\Student.DESKTOP-FCRGMHM\\Documents\\18. Zahari\\WebDogApp\\WebDogApp.Infrastructure\\Data\\Domain\\Dog.cs",
+              "RelativeToolTip": "WebDogApp.Infrastructure\\Data\\Domain\\Dog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T07:29:56.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Breeed.cs",
+              "DocumentMoniker": "C:\\Users\\Student.DESKTOP-FCRGMHM\\Documents\\18. Zahari\\WebDogApp\\WebDogApp.Infrastructure\\Data\\Domain\\Breeed.cs",
+              "RelativeDocumentMoniker": "WebDogApp.Infrastructure\\Data\\Domain\\Breeed.cs",
+              "ToolTip": "C:\\Users\\Student.DESKTOP-FCRGMHM\\Documents\\18. Zahari\\WebDogApp\\WebDogApp.Infrastructure\\Data\\Domain\\Breeed.cs",
+              "RelativeToolTip": "WebDogApp.Infrastructure\\Data\\Domain\\Breeed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T07:27:45.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Student.DESKTOP-FCRGMHM\\Documents\\18. Zahari\\WebDogApp\\WebDogApp.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebDogApp.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Student.DESKTOP-FCRGMHM\\Documents\\18. Zahari\\WebDogApp\\WebDogApp.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebDogApp.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T07:18:00.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WebDogApp.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\Student.DESKTOP-FCRGMHM\\Documents\\18. Zahari\\WebDogApp\\WebDogApp.Infrastructure\\WebDogApp.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "WebDogApp.Infrastructure\\WebDogApp.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Student.DESKTOP-FCRGMHM\\Documents\\18. Zahari\\WebDogApp\\WebDogApp.Infrastructure\\WebDogApp.Infrastructure.csproj",
+              "RelativeToolTip": "WebDogApp.Infrastructure\\WebDogApp.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-06T11:00:55.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WebDogApp.Core",
+              "DocumentMoniker": "C:\\Users\\Student.DESKTOP-FCRGMHM\\Documents\\18. Zahari\\WebDogApp\\WebDogApp.Core\\WebDogApp.Core.csproj",
+              "RelativeDocumentMoniker": "WebDogApp.Core\\WebDogApp.Core.csproj",
+              "ToolTip": "C:\\Users\\Student.DESKTOP-FCRGMHM\\Documents\\18. Zahari\\WebDogApp\\WebDogApp.Core\\WebDogApp.Core.csproj",
+              "RelativeToolTip": "WebDogApp.Core\\WebDogApp.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-06T11:00:35.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WebDogApp",
+              "DocumentMoniker": "C:\\Users\\Student.DESKTOP-FCRGMHM\\Documents\\18. Zahari\\WebDogApp\\WebDogApp\\WebDogApp.csproj",
+              "RelativeDocumentMoniker": "WebDogApp\\WebDogApp.csproj",
+              "ToolTip": "C:\\Users\\Student.DESKTOP-FCRGMHM\\Documents\\18. Zahari\\WebDogApp\\WebDogApp\\WebDogApp.csproj",
+              "RelativeToolTip": "WebDogApp\\WebDogApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-06T10:59:52.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Student.DESKTOP-FCRGMHM\\Documents\\18. Zahari\\WebDogApp\\WebDogApp.Core\\Class1.cs",
+              "RelativeDocumentMoniker": "WebDogApp.Core\\Class1.cs",
+              "ToolTip": "C:\\Users\\Student.DESKTOP-FCRGMHM\\Documents\\18. Zahari\\WebDogApp\\WebDogApp.Core\\Class1.cs",
+              "RelativeToolTip": "WebDogApp.Core\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T10:58:56.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Student.DESKTOP-FCRGMHM\\Documents\\18. Zahari\\WebDogApp\\WebDogApp.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "WebDogApp.Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Users\\Student.DESKTOP-FCRGMHM\\Documents\\18. Zahari\\WebDogApp\\WebDogApp.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "WebDogApp.Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T10:58:25.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Student.DESKTOP-FCRGMHM\\Documents\\18. Zahari\\WebDogApp\\WebDogApp\\Program.cs",
+              "RelativeDocumentMoniker": "WebDogApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Student.DESKTOP-FCRGMHM\\Documents\\18. Zahari\\WebDogApp\\WebDogApp\\Program.cs",
+              "RelativeToolTip": "WebDogApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T10:52:58.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Student.DESKTOP-FCRGMHM\\Documents\\18. Zahari\\WebDogApp\\WebDogApp\\appsettings.json",
+              "RelativeDocumentMoniker": "WebDogApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\Student.DESKTOP-FCRGMHM\\Documents\\18. Zahari\\WebDogApp\\WebDogApp\\appsettings.json",
+              "RelativeToolTip": "WebDogApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-06T10:52:05.282Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

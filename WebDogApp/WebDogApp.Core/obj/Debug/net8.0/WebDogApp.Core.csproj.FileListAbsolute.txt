@@ -1,0 +1,17 @@
+C:\Users\Student.DESKTOP-FCRGMHM\Documents\18. Zahari\WebDogApp\WebDogApp.Core\bin\Debug\net8.0\WebDogApp.Core.deps.json
+C:\Users\Student.DESKTOP-FCRGMHM\Documents\18. Zahari\WebDogApp\WebDogApp.Core\bin\Debug\net8.0\WebDogApp.Core.runtimeconfig.json
+C:\Users\Student.DESKTOP-FCRGMHM\Documents\18. Zahari\WebDogApp\WebDogApp.Core\bin\Debug\net8.0\WebDogApp.Core.dll
+C:\Users\Student.DESKTOP-FCRGMHM\Documents\18. Zahari\WebDogApp\WebDogApp.Core\bin\Debug\net8.0\WebDogApp.Core.pdb
+C:\Users\Student.DESKTOP-FCRGMHM\Documents\18. Zahari\WebDogApp\WebDogApp.Core\bin\Debug\net8.0\WebDogApp.Infrastructure.dll
+C:\Users\Student.DESKTOP-FCRGMHM\Documents\18. Zahari\WebDogApp\WebDogApp.Core\bin\Debug\net8.0\WebDogApp.Infrastructure.pdb
+C:\Users\Student.DESKTOP-FCRGMHM\Documents\18. Zahari\WebDogApp\WebDogApp.Core\obj\Debug\net8.0\WebDogApp.Core.csproj.AssemblyReference.cache
+C:\Users\Student.DESKTOP-FCRGMHM\Documents\18. Zahari\WebDogApp\WebDogApp.Core\obj\Debug\net8.0\WebDogApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student.DESKTOP-FCRGMHM\Documents\18. Zahari\WebDogApp\WebDogApp.Core\obj\Debug\net8.0\WebDogApp.Core.AssemblyInfoInputs.cache
+C:\Users\Student.DESKTOP-FCRGMHM\Documents\18. Zahari\WebDogApp\WebDogApp.Core\obj\Debug\net8.0\WebDogApp.Core.AssemblyInfo.cs
+C:\Users\Student.DESKTOP-FCRGMHM\Documents\18. Zahari\WebDogApp\WebDogApp.Core\obj\Debug\net8.0\WebDogApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\Student.DESKTOP-FCRGMHM\Documents\18. Zahari\WebDogApp\WebDogApp.Core\obj\Debug\net8.0\WebDogAp.11F7FA45.Up2Date
+C:\Users\Student.DESKTOP-FCRGMHM\Documents\18. Zahari\WebDogApp\WebDogApp.Core\obj\Debug\net8.0\WebDogApp.Core.dll
+C:\Users\Student.DESKTOP-FCRGMHM\Documents\18. Zahari\WebDogApp\WebDogApp.Core\obj\Debug\net8.0\refint\WebDogApp.Core.dll
+C:\Users\Student.DESKTOP-FCRGMHM\Documents\18. Zahari\WebDogApp\WebDogApp.Core\obj\Debug\net8.0\WebDogApp.Core.pdb
+C:\Users\Student.DESKTOP-FCRGMHM\Documents\18. Zahari\WebDogApp\WebDogApp.Core\obj\Debug\net8.0\WebDogApp.Core.genruntimeconfig.cache
+C:\Users\Student.DESKTOP-FCRGMHM\Documents\18. Zahari\WebDogApp\WebDogApp.Core\obj\Debug\net8.0\ref\WebDogApp.Core.dll
